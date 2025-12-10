@@ -1,4 +1,6 @@
-﻿namespace OrderApp
+﻿using OrderApp.OrderSystem;
+
+namespace OrderApp
 {
     internal class Program
     {
